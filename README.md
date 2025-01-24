@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yoana Bastiyanova (@YoanaBast) 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner projects 
-- 📫 You can reach me me by email at: bastianovajoana@gmail.com
+- 📫 You can reach me via email at: bastianovajoana@gmail.com
 - ⚡ Fun fact: I speak Japanese 🌸
 
 <!---
