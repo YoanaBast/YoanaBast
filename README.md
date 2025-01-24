@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yoana Bastiyanova (@YoanaBast) 
+- 👋 Hi, I’m Yoana Bastiyanova 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner projects 
 - 📫 You can reach me via email at: bastianovajoana@gmail.com
