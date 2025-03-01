@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yoana Bastiyanova 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java Script
 - 💞️ I’m looking to collaborate on beginner projects 
 - 📫 You can reach me via email at: bastianovajoana@gmail.com
 - ⚡ Fun fact: I speak Japanese 🌸
