@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yoana</h1>
-- 🌱 I’m currently learning Python and JavaScript 
-
-- 📫 You can reach me via email at: bastianovajoana@gmail.com
+<h2>🌱 I’m currently learning Python and JavaScript </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+📫 You can reach me via email at: bastianovajoana@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
