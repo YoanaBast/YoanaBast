@@ -19,7 +19,7 @@
 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoanaBast&hide=powershell,shell,batchfile,xonsh&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoanaBast&hide=powershell,shell,batchfile,xonsh&theme=buefy&v=1)
 
 
 
