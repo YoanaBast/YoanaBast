@@ -21,5 +21,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoanaBast&hide=powershell,shell,batchfile,xonsh&theme=synthwave&v=1)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoanaBast&repo=mini_projects)](https://https://github.com/YoanaBast/mini_projects)
+
 
 
