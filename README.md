@@ -3,7 +3,7 @@
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
 <p>
-📄 Check out my <a href="https://yoanabast.github.io/my-cv/index.html" target="_blank">CV</a> — I built it in HTML!
+📄 Check out my <a href="https://yoanabast.github.io/html-resume-template/" target="_blank">CV</a> — I built it in HTML!
 </p>
 
 
