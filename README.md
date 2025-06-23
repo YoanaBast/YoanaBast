@@ -2,7 +2,7 @@
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
 <p>
-<a href="https://yoanabast.github.io/my-cv/index.html" target="_blank">📄 Check out my resume</a>
+📄 Check out my <a href="https://yoanabast.github.io/my-cv/index.html" target="_blank">CV</a> — I built it in HTML!
 </p>
 
 
