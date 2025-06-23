@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Yoana! ✨ </h1>
+<h1 align="left">👋 Hello, I'm Yoana! ✨</h1>
+
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
 <p>
