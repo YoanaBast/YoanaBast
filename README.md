@@ -1,4 +1,4 @@
-![Yoana Typing](assets/yoana_typing.gif)
+![Transparent Typing](https://raw.githubusercontent.com/YoanaBast/YoanaBast/main/yoana_typing_transparent.gif)
 
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
