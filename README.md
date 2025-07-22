@@ -1,4 +1,12 @@
-![Typing Animation](https://raw.githubusercontent.com/YoanaBast/YoanaBast/main/yoana_typing_transparent_small.gif)
+<div align="center">
+  <a href="https://git.io/typing-svg" align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=35&duration=3000&pause=1000&color=FF69B4&center=true&width=600&lines=Hello%2C+I%27m+Yoana%21"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
 
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
