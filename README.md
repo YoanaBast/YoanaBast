@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Yoana! ✨</h1>
+<h1 align="left">![Yoana Typing](assets/yoana_typing.gif)</h1>
 
 <h2>🌱 I’m currently learning Python and JavaScript </h2>
 
