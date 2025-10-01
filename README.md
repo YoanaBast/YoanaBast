@@ -8,7 +8,7 @@
 </div>
 
 
-<h2>🌱 I’m currently learning Python and JavaScript </h2>
+<h2>🌱 I’m currently learning Python</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
