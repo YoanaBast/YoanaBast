@@ -8,13 +8,11 @@
 </div>
 
 
-<h2>  <p>🌱 I’m currently learning <strong>Python</strong> <span role="img" aria-label="snake">🐍</span></p>
-
-  <ul class="learning-list">
-    <li>💻 <strong>Interested in Web Development</strong> <span role="img" aria-label="globe">🌐</span></li>
-    <li>📊 <strong>Exploring Data Science</strong> <span role="img" aria-label="chart increasing">📈</span></li>
-    <li>🤖 <strong>Curious about Machine Learning</strong> <span role="img" aria-label="brain">🧠</span></li>
-  </ul>/h2>
+<h2><p>🌱 I’m currently learning <strong>Python</strong> <span role="img" aria-label="snake">🐍</span></p>
+  <li>💻 <strong>Interested in Web Development</strong> <span role="img" aria-label="globe">🌐</span></li>
+  <li>📊 <strong>Exploring Data Science</strong> <span role="img" aria-label="chart increasing">📈</span></li>
+  <li>🤖 <strong>Curious about Machine Learning</strong> <span role="img" aria-label="brain">🧠</span></li>
+/h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
