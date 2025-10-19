@@ -8,12 +8,6 @@
 </div>
 
 
-<h2>
-  🌱 I’m currently learning <strong>Python</strong> 🐍 <br/>
-  💻 Interested in <strong>Web Development</strong> 🌐 <br/>
-  📊 Exploring <strong>Data Science</strong> 📈 <br/>
-  🤖 Curious about <strong>Machine Learning</strong> 🧠
-</h2>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
