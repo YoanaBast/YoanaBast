@@ -7,8 +7,8 @@
   </a>
 </div>
 
-
-Hi! I am a Python developer in the making, currently expanding my skills and exploring new technologies. I enjoy building projects that challenge me and help me grow as a software developer.
+# About Me
+I am a Python developer in the making, currently expanding my skills and exploring new technologies. I enjoy building projects that challenge me and help me grow as a software developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
