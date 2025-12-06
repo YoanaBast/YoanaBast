@@ -8,7 +8,7 @@
 </div>
 
 # About Me
-I am a Python developer in the making, currently expanding my skills and exploring new technologies. I enjoy building projects that challenge me and help me grow as a software developer.
+Aspiring Python developer, continuously learning and exploring new technologies. I enjoy building projects that solve problems and strengthen my skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
