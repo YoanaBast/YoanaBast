@@ -38,6 +38,7 @@ I am a Python developer in the making, currently expanding my skills and explori
 </p>
 
 
+[📄 View My Resume](https://yoanabast.github.io/html-resume-template/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanaBast&hide=powershell,shell,batchfile,xonsh&theme=synthwave&cache_seconds=1800)
