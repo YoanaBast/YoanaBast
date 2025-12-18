@@ -13,7 +13,7 @@ Aspiring Python developer, continuously learning and exploring new technologies.
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
-[📄 View My Resume](https://yoanabast.github.io/html-resume-template/)
+[📄 View My Resume](https://yoanabast.github.io/resume/)
 
 
 <h3 align="left">Languages and Tools:</h3>
