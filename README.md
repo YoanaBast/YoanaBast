@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg" align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=35&duration=3000&pause=1000&color=FF69B4&center=true&width=600&lines=Hello%2C+I%27m+Yoana%21"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&pause=1000&color=F76FA0&width=435&lines=Hi+there!++I'm+Yoana.)](https://git.io/typing-svg)
 
 # About Me
 Aspiring Python developer, continuously learning and exploring new technologies. I enjoy building projects that solve problems and strengthen my skills.
