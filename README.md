@@ -4,7 +4,6 @@
 # About Me
 I'm a Python developer, continuously learning and exploring new technologies. I enjoy building projects that solve problems and strengthen my skills.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
 # 📄 [View My Resume](https://yoanabast.github.io/resume/)
@@ -49,6 +48,7 @@ I'm a Python developer, continuously learning and exploring new technologies. I 
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
 
