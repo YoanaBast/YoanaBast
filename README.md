@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&pause=1000&color=F76FA0&width=435&lines=Hi+there!++I'm+Yoana.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=F76FA0&width=435&lines=Hi+there!++I'm+Yoana.)](https://git.io/typing-svg)
+
 
 # About Me
-Aspiring Python developer, continuously learning and exploring new technologies. I enjoy building projects that solve problems and strengthen my skills.
+I'm a Python developer, continuously learning and exploring new technologies. I enjoy building projects that solve problems and strengthen my skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
