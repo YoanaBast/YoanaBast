@@ -7,10 +7,7 @@ I'm a Python developer, continuously learning and exploring new technologies. I 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
-## 📄 [View My Resume](https://yoanabast.github.io/resume/)
 # 📄 [View My Resume](https://yoanabast.github.io/resume/)
-**📄 [View My Resume](https://yoanabast.github.io/resume/)**
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://yoanabast.github.io/resume/)
 
 
 
