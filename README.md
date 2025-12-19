@@ -7,10 +7,10 @@ I'm a Python developer, continuously learning and exploring new technologies. I 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
-<a href="https://yoanabast.github.io/resume/"
-   style="font-size: 26px; font-weight: 700; padding: 12px 18px; display: inline-block;">
+<a href="https://yoanabast.github.io/resume/" style="font-size: 35px; font-weight: 600;">
   📄 View My Resume
 </a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
