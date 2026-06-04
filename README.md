@@ -2,40 +2,29 @@
 
 
 
-
-
+## I work full time as a Senior IT Technician. I'm also learning programming and am interested in, well, honestly, everything!
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,html,css,docker,aws,arduino)](https://skillicons.dev)
+
+### Dev Skills
+- **Python** — OOP, Django, FastAPI
+- **SQL** — PostgreSQL, but can adapt to any flavour
+- **HTML & CSS**
+- **Deployment** — Docker, AWS EC2, Render, mailing server, cloud storage, bug loggers, Cloudflare
+- **Arduino** — I play around with breadboards and can do some basic things, like rendering text on a monitor. More of an interest than a skill, but it's growing!
+
+### Currently Working On
+JavaScript — I know the syntax, now diving into the specifics and the DOM.
+
+### Next Goals
+- Kubernetes, cloud computing, advanced cybersecurity, Linux beyond the basics
+- After that: system design and ETL
+
+### Fun Facts About Me
+I studied arts in high school then majored in linguistics with Japanese. I sometimes paint as a hobby, can hold a conversation in Japanese, and I'm also learning guitar — though it takes me 3 business days to switch a chord.
+
 
 
 
