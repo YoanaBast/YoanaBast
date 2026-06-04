@@ -11,7 +11,7 @@
 ### Dev Skills
 - **Python** — OOP, Django, FastAPI
 - **SQL** — PostgreSQL, but can adapt to any flavour
-- **HTML & CSS**
+- **HTML & CSS** — Check out this [Flexbox Keyboard](https://yoanabast.github.io/css-keyboard/)
 - **Deployment** — Docker, AWS EC2, Render, mailing server, cloud storage, bug loggers, Cloudflare
 - **Arduino** — I play around with breadboards and can do some basic things, like rendering text on a monitor. More of an interest than a skill, but it's growing!
 
