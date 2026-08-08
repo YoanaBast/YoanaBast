@@ -8,7 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=F76FA0&width=435&lines=Hi+there!++I'm+Yoana.)](https://git.io/typing-svg)
 
 
-I'm an IT tech that's learning to code.
 
 I have hands-on experience with **Django**, good command of **Python** and **JavaScript** at OOP level, know **PG SQL**, and can perform **HTML&CSS sorcery**. I also have deployment experience and therefore a great appreciation for **Docker**.
 
