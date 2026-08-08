@@ -1,29 +1,17 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=250&section=header&text=Yoana%20Bastiyanova&fontSize=50&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=F76FA0&width=435&lines=Hi+there!++I'm+Yoana.)](https://git.io/typing-svg)
 
 
+I'm an IT tech that's learning to code.
 
-## I work full time as a Senior IT Technician. I'm also learning programming and am interested in, well, honestly, everything!
+I have hands-on experience with **Django**, good command of **Python** and **JavaScript** at OOP level, know **PG SQL**, and can perform **HTML&CSS sorcery**. I also have deployment experience and therefore a great appreciation for **Docker**.
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,html,css,docker,aws,arduino)](https://skillicons.dev)
-
-### Dev Skills
-- **Python** — OOP, Django, FastAPI
-- **SQL** — PostgreSQL, but can adapt to any flavour
-- **HTML & CSS** — Check out my [Flexbox Keyboard](https://yoanabast.github.io/css-keyboard/) and [Photo Gallery Free Hosting Automation](https://github.com/YoanaBast/PhotoGallery)
-- **Deployment** — Docker, AWS EC2, Render, mailing server, cloud storage, bug loggers, Cloudflare
-- **Arduino** — I play around with breadboards and can do some basic things, like rendering text on a monitor. More of an interest than a skill, but it's growing!
-
-### Currently Working On
-JavaScript — I know the syntax, now diving into the specifics and the DOM.
-
-### Next Goals
-- Kubernetes, cloud computing, advanced cybersecurity, Linux beyond the basics
-- After that: system design and ETL
-
-### Fun Facts About Me
-I studied arts in high school then majored in linguistics with Japanese. I sometimes paint as a hobby, can hold a conversation in Japanese, and I'm also learning guitar — though it takes me 3 business days to switch a chord.
 
 
 
@@ -31,6 +19,7 @@ I studied arts in high school then majored in linguistics with Japanese. I somet
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,html,css,js,docker,aws,arduino)](https://skillicons.dev)
 
 
 
