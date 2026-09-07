@@ -24,7 +24,7 @@ know <strong>PostgreSQL</strong>, and can perform <strong>HTML & CSS sorcery</st
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
-
+<h1></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&duration=0.01&pause=10000000&color=4A90E2&width=435&lines=Check+out+some+Projects%3A)](https://git.io/typing-svg)
 
