@@ -1,33 +1,21 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&pause=1000&color=9F2B68&width=435&lines=Hi+there!+I'm+Yoana.)](https://git.io/typing-svg)
-
-
-<h1>
-I have hands-on experience with <strong>Django</strong>, good command of
-<strong>Python</strong> and <strong>JavaScript</strong> at OOP level,
-know <strong>PostgreSQL</strong>, and can perform <strong>HTML & CSS sorcery</strong>.
-</h1>
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&duration=0.01&pause=10000000&color=22C55E&width=435&lines=Check+out+my+Resume)](https://yoanabast.github.io/resume/)
-<div align="left">
-
-[![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://yoanabast.github.io/resume/)
-
-</div>
-
-
-
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,html,css,js,docker,aws,arduino)](https://skillicons.dev)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 <h1></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=35&duration=0.01&pause=10000000&color=4A90E2&width=435&lines=Check+out+some+Projects%3A)](https://git.io/typing-svg)
+### Check out my resume here:
 
+[![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=22C55E&height=40)](https://yoanabast.github.io/resume/)
+
+
+<h1></h1>
+
+
+### Check out some projects of mine:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modak&size=40&pause=1000&color=F75B42&width=435&lines=LIVE+PROJECTS)](https://git.io/typing-svg) 
+ 
 [![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Foodganizer&subheader=Your+Django+meal+planner&bg=000000-26A269&color=FFFFFF&headerfont=Ultra&subheaderfont=Gluten&watermarkpos=bottom-right)](https://github.com/YoanaBast/Foodganizer)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=22C55E&width=435&lines=Python+%7C+Django+%7C+HTML+%7C+CSS+%7C+JS+%7C+PGSQL+%7C+DOCKER+%7C+AWS)](https://git.io/typing-svg)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
@@ -41,7 +29,8 @@ know <strong>PostgreSQL</strong>, and can perform <strong>HTML & CSS sorcery</st
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=8B5CF6&width=435&lines=HTML+%7C+CSS+%7C+JS)](https://git.io/typing-svg)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
+<h1></h1>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=YoanaBast)
 
 
