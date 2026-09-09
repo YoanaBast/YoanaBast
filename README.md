@@ -4,6 +4,11 @@
 
 <h1></h1>
 
+<br><br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gasoek+One&size=33&pause=1000&color=51D0FF&width=435&lines=Python+Developer)](https://git.io/typing-svg)
+
 ### Check out my resume here:
 
 [![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=22C55E&height=40)](https://yoanabast.github.io/resume/)
