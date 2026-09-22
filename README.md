@@ -4,14 +4,10 @@
 
 [![Databricks](https://img.shields.io/badge/Databricks-EF3A2D?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
-<h1></h1>
-
-<br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gasoek+One&size=33&pause=1000&color=51D0FF&width=435&lines=Python+Developer)](https://git.io/typing-svg)
-
-### Check out my resume here:
+### Full Stack Software Engineer with a background in IT support, data analytics (Excel, Databricks, PySpark), and hands-on experience building, testing, and deploying web apps with Django, PostgreSQL, Docker, AWS, JavaScript, Python, HTML, and CSS. I am friendly, eager to learn, and like constructive criticism and open communication.
+<br>
 
 [![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=22C55E&height=40)](https://yoanabast.github.io/resume/)
 
@@ -20,8 +16,6 @@
 
 
 ### Check out some projects of mine:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Modak&size=40&pause=1000&color=F75B42&width=435&lines=LIVE+PROJECTS)](https://git.io/typing-svg) 
  
 [![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Foodganizer&subheader=Your+Django+meal+planner&bg=000000-26A269&color=FFFFFF&headerfont=Ultra&subheaderfont=Gluten&watermarkpos=bottom-right)](https://github.com/YoanaBast/Foodganizer)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=22C55E&width=435&lines=Python+%7C+Django+%7C+HTML+%7C+CSS+%7C+JS+%7C+PGSQL+%7C+DOCKER+%7C+AWS)](https://git.io/typing-svg)
