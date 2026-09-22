@@ -2,6 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,git,html,css,js,docker,aws,arduino)](https://skillicons.dev)
 
+[![Databricks](https://img.shields.io/badge/Databricks-EF3A2D?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 <h1></h1>
 
 <br><br>
