@@ -18,9 +18,10 @@
 
 ### Check out some projects of mine:
  
-[![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Foodganizer&subheader=Your+Django+meal+planner&bg=000000-26A269&color=FFFFFF&headerfont=Ultra&subheaderfont=Gluten&watermarkpos=bottom-right)](https://github.com/YoanaBast/Foodganizer)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=22C55E&width=435&lines=Python+%7C+Django+%7C+HTML+%7C+CSS+%7C+JS+%7C+PGSQL+%7C+DOCKER+%7C+AWS)](https://git.io/typing-svg)
+[![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgreasyfork%5D+Foodganizer&subheader=Full+stack+meal+tracker+app+%28Django%29&bg=10A37F&color=FFFFFF&headerfont=Ultra&subheaderfont=Gluten&watermarkpos=bottom-right)](https://github.com/YoanaBast/Foodganizer)
+
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=22C55E&width=435&lines=Python+%7C+Django+%7C+HTML+%7C+CSS+%7C+JS+%7C+PGSQL+%7C+DOCKER+%7C+AWS)](https://git.io/typing-svg)
 
 [![GitHub Repo Banner](https://ghrb.waren.build/banner?repo=YoanaBast%2Freal-estate-scrape-ETL-analyse-bulgaria&header=%21%5Bdatabricks%5D+Real-estate+ETL+pipeline&subheader=Python+scraper%2C+Databricks+ETL%2C+PySpark+transform%2C+Tableau&bg=F38020-FBAB41&color=FFFFFF&headerfont=Bungee&subheaderfont=Kinewave&watermarkpos=bottom-right)](https://github.com/YoanaBast/real-estate-scrape-ETL-analyse-bulgaria)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
