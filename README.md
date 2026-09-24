@@ -11,6 +11,7 @@
 
 [![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=22C55E&height=40)](https://yoanabast.github.io/resume/)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YoanaBast&rank_icon=github&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=YoanaBast&rank_icon=github&include_all_commits=true&theme=dracula)
 
 <h1></h1>
 
