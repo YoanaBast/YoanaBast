@@ -6,7 +6,7 @@
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 
 
-### Full Stack Software Engineer with a background in IT support, data analytics (Excel, Databricks, PySpark), and hands-on experience building, testing, and deploying web apps with Django, PostgreSQL, Docker, AWS, JavaScript, Python, HTML, and CSS. I am friendly, eager to learn, and like constructive criticism and open communication.
+### Technology-driven and curious, with experience in IT support and a strong interest in software development and data engineering. Skilled in Python, Django, JavaScript, SQL, PostgreSQL, Docker, AWS, Excel, Databricks, and PySpark. I am friendly, eager to learn, and value open communication.
 <br>
 
 [![Resume](https://img.shields.io/badge/View%20Resume-22C55E?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=22C55E&height=40)](https://yoanabast.github.io/resume/)
